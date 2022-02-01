@@ -19,7 +19,7 @@ This project serves as a base dependency for blockchain-based inventory metadata
 Install as a module dependency in your host NodeJS project:
 
 ```bash
-$ npm install --save @animoca/blockchain-inventory_metadata
+$ npm install --save @cryptogesic/blockchain-inventory_metadata
 ```
 
 
@@ -30,5 +30,5 @@ $ npm install --save @animoca/blockchain-inventory_metadata
 Require the NodeJS module dependency in your test and deployment scripts as needed:
 
 ```javascript
-const { inventoryId, constants } = require('@animoca/blockchain-inventory_metadata');
+const { inventoryId, constants } = require('@cryptogesic/blockchain-inventory_metadata');
 ```

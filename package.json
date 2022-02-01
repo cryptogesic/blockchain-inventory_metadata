@@ -1,5 +1,5 @@
 {
-  "name": "@animoca/blockchain-inventory_metadata",
+  "name": "@cryptogesic/blockchain-inventory_metadata",
   "version": "0.1.0",
   "description": "Base metadata manipulation for Assets Inventory. Dependency for Contracts, Backends and Frontends projects.",
   "main": "src/index.js",
